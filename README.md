@@ -13,9 +13,7 @@ Using Python to understand U.S Bikeshare data.
 CSV files, python modules and libraries
 
 ### Credits
-Udacity and motivateco.com
-
-
+Udacity & motivateco.com
 
 
 
